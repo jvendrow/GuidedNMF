@@ -1,0 +1,11 @@
+sSrcWordIndices /home/jvendrow/ENMF/SeededLDA/data/word_ind_list.txt
+sSrcDocIndices /home/jvendrow/ENMF/SeededLDA/data/doc_ind_list.txt
+sSrcWords /home/jvendrow/ENMF/SeededLDA/data/word_list.txt
+iNoTopics 10
+iNoIterations 1500
+dAlpha 1.0 
+dBeta 0.01
+dMu0 1e-7 
+dTau0 0.7
+bAllowSeedTopics 1 
+sSeedTopicalWordsPath /home/jvendrow/ENMF/SeededLDA/data/20news_seed_file
