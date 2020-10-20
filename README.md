@@ -2,8 +2,8 @@
 This is the repository for the paper "Guided Nonnegative Matrix Factorization" by Joshua Vendrow, Jamie Haddock, Liza Rebrova, and Deanna Needell.
 
 ### Included Files
-The format of the repository is as follows:
--`Newsgroup.ipynb` contains the experiments on the 20 Newsgroup data set. 
+The format of the repository is as follows:  
+-`Newsgroup.ipynb` contains the experiments on the 20 Newsgroup data set.  
 -`Twitter.ipynb` contains the experiments on a Twitter political data set.  
 -`Ablation.ipynb` contains the comparison between GuidedNMF and SeededLDA.  
 -`seeded_lda` is a folder containing helper scripts for running SeededLDA.  
