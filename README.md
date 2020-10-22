@@ -6,7 +6,7 @@ The format of the repository is as follows:
 -`Newsgroup.ipynb` contains the experiments on the 20 Newsgroup data set.  
 -`Twitter.ipynb` contains the experiments on a Twitter political data set.  
 -`Ablation.ipynb` contains the comparison between GuidedNMF and SeededLDA.  
--`seeded_lda` is a folder containing helper scripts for running SeededLDA, as well as the results of the abolition experiment.  
+-`seeded_lda` is a folder containing helper scripts for running SeededLDA, as well as the results of the ablation experiment.  
 -`read_tweets.py` contains a script to generate the twitter data set (access to this data requires a Twitter Developer account).  
 
 ### Instructions for Running SeededLDA.
