@@ -1,5 +1,5 @@
 # GuidedNMF
-This is the repository for the paper "Guided Nonnegative Matrix Factorization" by Joshua Vendrow, Jamie Haddock, Elizaveta Rebrova, and Deanna Needell.
+This is the repository for the paper "On a Guided Nonnegative Matrix Factorization" by Joshua Vendrow, Jamie Haddock, Elizaveta Rebrova, and Deanna Needell.
 
 ### Included Files
 The format of the repository is as follows:  
