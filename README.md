@@ -27,5 +27,5 @@ The authors of the SeededLDA method have an official repository for the paper at
 <br /><br />
 
 <p align="left">
-<img width="700px" src="https://github.com/jvendrow/GuidedNMF/blob/main/Figures/Table_4.png" alt="table_4">
+<img width="600px" src="https://github.com/jvendrow/GuidedNMF/blob/main/Figures/Table_4.png" alt="table_4">
 </p>
