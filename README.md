@@ -4,7 +4,7 @@ This is the repository for the paper
 > **On a Guided Nonnegative Matrix Factorization** <br>
 > by Joshua Vendrow, Jamie Haddock, Elizaveta Rebrova, and Deanna Needell,
 > published in IEEE ICASSP 2021.
-
+> 
 > **Abstract:** Fully unsupervised topic models have found fantastic success in document clustering and classification. However, these models often suffer from the tendency to learn less-than-meaningful or even redundant topics when the data is biased towards a set of features. For this reason, we propose an approach based upon the nonnegative matrix factorization (NMF) model, deemed \textit{Guided NMF}, that incorporates user-designed seed word supervision. Our experimental results demonstrate the promise of this model and illustrate that it is competitive with other methods of this ilk with only very little supervision information.
 
 
