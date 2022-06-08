@@ -36,3 +36,14 @@ The authors of the SeededLDA method have an official repository for the paper at
 <p align="left">
 <img width="600px" src="https://github.com/jvendrow/GuidedNMF/blob/main/Figures/Table_4.png" alt="table_4">
 </p>
+
+### Quick Dependency Note
+The codebase for Guided NMF depends on verssion version `0.0.2` of the `ssnmf` package. We make this requirement explicit in the `requirements.txt` file and restate it here due to issues raised by others using this repository. In order to install the correct version of `ssnmf` using pip, run the following command:
+```
+$ pip install ssnmf==0.0.2
+```
+Alternatively, all of the requirements for the repository can be installed with the following command:
+```
+$ pip install -r requirements.txt
+```
+
