@@ -31,11 +31,11 @@ The authors of the SeededLDA method have an official repository for the paper at
 
 6. This script runs experiments at a given rank. To change the rank, change line 4 in `20news_config` to "iNoTopics N" where N is the desired rank and change line 7 of `script.sh`, setting the name "SeededLDA_docTopicDist_N_$i.txt" where N is the desired rank.
 
-<br /><br />
-
+<br />
 <p align="left">
 <img width="600px" src="https://github.com/jvendrow/GuidedNMF/blob/main/Figures/Table_4.png" alt="table_4">
 </p>
+<br />
 
 ### Quick Dependency Note
 The codebase for Guided NMF depends on verssion version `0.0.2` of the `ssnmf` package. We make this requirement explicit in the `requirements.txt` file and restate it here due to issues raised by others using this repository. In order to install the correct version of `ssnmf` using pip, run the following command:
